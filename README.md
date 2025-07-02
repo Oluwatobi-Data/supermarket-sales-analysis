@@ -1,35 +1,35 @@
-# 🛒 Supermarket Sales Analysis Dashboard (Jan–Mar 2019)
+# Supermarket Sales Analysis Dashboard (Jan–Mar 2019)
 
 This project analyzes supermarket sales data over a three-month period to uncover insights into customer behavior, product performance, and branch-level profitability. Built using **Power BI**, the dashboard highlights key trends that inform inventory planning, marketing strategies, and operational decisions.
 
 ---
 
-## 🔍 Executive Summary
+## Executive Summary
 
-**🎯 Objective:**  
+**Objective:**  
 Evaluate supermarket sales data to identify sales trends, top-performing product lines, and customer behavior insights across multiple branches.
 
-**📌 Key Insights:**
-- 💵 **Total Sales:** $322.97K  
-- 📈 **Total Profit:** $15.38K  
-- 🏪 **Top Revenue Branch:** Branch C (34.24% of total sales)  
-- 🍽️ **Best-Selling Product Line:** Food and Beverages  
-- 📅 **Highest Sales Day:** Saturday  
-- 👥 **Customer Demographics:**  
+**Key Insights:**
+- **Total Sales:** $322.97K  
+- **Total Profit:** $15.38K  
+- **Top Revenue Branch:** Branch C (34.24% of total sales)  
+- **Best-Selling Product Line:** Food and Beverages  
+- **Highest Sales Day:** Saturday  
+- **Customer Demographics:**  
   - Female: 51.98%  
   - Male: 48.02%  
-- 🔑 **Customer Types:**  
+- **Customer Types:**  
   - Members: 49.15%  
   - Normal: 50.85%
 
-**🛠 Recommendations:**
+**Recommendations:**
 - Increase stock and marketing for **Food and Beverages**.
 - Launch **loyalty incentives** targeting **Saturday shoppers**.
 - Tailor pricing and promotions based on **gender and customer type** insights.
 
 ---
 
-## 🧭 Business Context
+## Business Context
 
 **Background:**  
 The supermarket chain seeks to understand key performance metrics, optimize product offerings, and improve customer targeting across three branches between January and March 2019.
@@ -44,25 +44,25 @@ Retail Managers, Marketing Team, Finance Department, Store Branch Supervisors
 
 ---
 
-## 🗂️ Data Overview
+## Data Overview
 
-- **📁 Source:** Supermarket POS system database  
-- **📅 Date Range:** January – March 2019  
-- **🔢 Fields Used:**  
+- **Source:** Supermarket POS system database  
+- **Date Range:** January – March 2019  
+- **Fields Used:**  
   `Branch`, `Product Line`, `Sales`, `Profit`, `Quantity`, `Customer Type`, `Gender`, `Date`, `City`, `Payment Method`, `Rating`  
 
-**📌 Data Notes:**
+**Data Notes:**
 - Transaction records are assumed complete and accurate.
 - Product categories and customer types are consistently labeled.
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 ![Dashboard Overview](supermarket-sales-dashboard.png)
 
 **Tool Used:** Power BI
 
-### 🖼️ Key KPIs:
+### Key KPIs:
 - Total Quantity Sold: **5,510**
 - Total Sales: **$322.97K**
 - Total Profit: **$15.38K**
@@ -73,41 +73,41 @@ Retail Managers, Marketing Team, Finance Department, Store Branch Supervisors
 
 ---
 
-### 📍 Sales by Branch:
+### Sales by Branch:
 - **Branch C:** 34.24% (Top)
 - Branch A: 32.88%
 - Branch B: 32.88%
 
-### 🍱 Sales by Product Line:
+### Sales by Product Line:
 - Highest: **Food and Beverages**
 - Others: Health & Beauty, Fashion Accessories, Sports & Travel, etc.
 
-### 📈 Sales Trend Over Time:
+### Sales Trend Over Time:
 - January: **Peak**
 - February: **Dip**
 - March: **Partial recovery**  
-📝 *Suggests possible seasonal or promotional impact*
+  *Suggests possible seasonal or promotional impact*
 
-### 📆 Sales by Day of the Week:
+### Sales by Day of the Week:
 - Highest: **Saturday**
 - Lowest: **Monday**
 
-### 🧑‍🤝‍🧑 Sales by Customer Type:
+### Sales by Customer Type:
 - **Members:** 49.15%
 - **Normal Customers:** 50.85% (Very balanced)
 
-### ⚥ Sales by Gender:
+### Sales by Gender:
 - Female: 51.98%
 - Male: 48.02%
 
-### 💰 Profit by Product Line:
+### Profit by Product Line:
 1. Food and Beverages  
 2. Fashion Accessories  
 3. Health & Beauty  
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 - **Double Down on Food and Beverages:** Leverage its sales and profit dominance with bundling and marketing.
 - **Capitalize on Saturdays:** Introduce weekend specials and reward programs to boost repeat visits.
@@ -117,7 +117,7 @@ Retail Managers, Marketing Team, Finance Department, Store Branch Supervisors
 
 ---
 
-## 🧠 Skills & Tools Demonstrated
+## Skills & Tools Demonstrated
 
 - Microsoft Power BI: Data modeling, DAX, slicers, charts
 - Sales Data Analysis
@@ -127,13 +127,13 @@ Retail Managers, Marketing Team, Finance Department, Store Branch Supervisors
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Executive_Summary_Report.pdf` – Clean summary with visuals  
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 **Oluwatobi Titilayo**  
 Data Analyst | Power BI • Excel • SQL • Python  
