@@ -129,7 +129,6 @@ Retail Managers, Marketing Team, Finance Department, Store Branch Supervisors
 
 ## 📁 Files Included
 
-- `Supermarket_Sales_Dashboard.pbix` – Power BI dashboard file  
 - `Executive_Summary_Report.pdf` – Clean summary with visuals  
 
 ---
